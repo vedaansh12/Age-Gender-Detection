@@ -29,5 +29,5 @@ The dataset is available here: https://drive.google.com/file/d/1RG3zMKBJNA5_c42k
 ---
 
 ## 📞 Author <br>
-Neeraj Kandpal <br>
-Linkedin : https://www.linkedin.com/in/neeraj-kandpal/
+Vedaansh Vishwakarma <br>
+Linkedin : https://www.linkedin.com/in/vedaansh-vishwakarma-057a7124b/
